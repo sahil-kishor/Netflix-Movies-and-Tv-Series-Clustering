@@ -22,7 +22,7 @@ This dataset consists of tv shows and movies available on Netflix as of 2019. Th
 
 ## Tasks Performed:
 
-1. Importing Data :- Imported daset into Google Colab notebook and converted in into a Pandas dataframe using Pandas Library
+1. Importing Data :- Imported dataset into Google Colab notebook and converted in into a Pandas dataframe using Pandas Library
 
 2. Data Cleaning :- Handling null values, duplicate data and changed column datatypes. The column 'director' had 30% of null values followed by 'cast' with 9%, 'coutry' with 6.51%, 'date added' with 0.13% and 'rating' column with 0.09% of null values which were replaced or imputed or dropped as per the requirement. There were no noticeable Duplicate values.
 
