@@ -23,12 +23,29 @@ This dataset consists of tv shows and movies available on Netflix as of 2019. Th
 ## Tasks Performed:
 
 1. Importing Data :- Imported daset into Google Colab notebook and converted in into a Pandas dataframe using Pandas Library
-2. Data Cleaning :- Handling null values, duplicate data and outliers present in our data. The column 'director' had 30% of null values followed by 'cast' with 9%, 'coutry' with 6.51%, 'date added' with 0.13% and 'rating' column with 0.09% of null values which were replaced or imputed or dropped as per the requirement. There were no noticeable Duplicate values.
+2. Data Cleaning :- Handling null values, duplicate data and changed column datatypes. The column 'director' had 30% of null values followed by 'cast' with 9%, 'coutry' with 6.51%, 'date added' with 0.13% and 'rating' column with 0.09% of null values which were replaced or imputed or dropped as per the requirement. There were no noticeable Duplicate values.
 3. Data Wrangling :- Changed the data type of 'date_added' column to datetime format and extracted the year, month and minute values as seperate columns
 4. Exploratory Data Analysis :- Plotted the dependent variable and analyzed the distributions of both dependent and independent variables. Checked and visualized the correlation between the dependent and independent variables, and explored the relationships between each pair of variables through various visualization techniques.
+5. Feature Engineering and Data Preprocessing:- Handled outliers in the data with Interquartile Range (IQR) method; Categorical Encoding using One Hot Encoding; Textual Data Preprocessing with lowercasing, removing punctuations and stopwords, lemmatization, tokenization and more. Followed by Dimesionality Reduction using PCA.
+6. ML Model Implementation :- Found the optimal number of clusters using the Elbow method and Silhouette Score for K-Means Clustering, created 6 clusters according to Silhouette Score. Crafted a dendogram for Hierarchical Clustering and formed 11 clusters and created Word cloud for every cluster formed by K-Means and Hierarchical Clustering
+7. Recommender System : Built a Recommender System to recommend relevant items for users, based on their preference
 
+# Conclusion
+Embarking on a Cinematic Adventure with Netflix Data! Launching into Data Realms: Prepare for an exhilarating voyage as we unveil the secrets of Netflix's vast content library through the lens of data science.
 
+Data Transformation Magic: Just like wizards, we worked our magic to transform jumbled descriptions into neat and organized data. Imagine tidying up your room, but with words instead of toys!
 
+Unlocking the Puzzle of Similarity: Think of movies and TV shows as puzzle pieces, and we sorted them based on their unique shapes and colors. This helped us uncover fascinating connections between seemingly unrelated content.
+
+Discovering Hidden Patterns: Imagine being a detective, hunting for hidden clues. We used complex algorithms to discover hidden patterns in the data. It's like decoding a secret message that only data can reveal.
+
+Venturing into Clusters of Content: We embarked on a cosmic journey, exploring clusters of movies and shows that share striking similarities. It's like discovering galaxies of content with their own themes and vibes.
+
+Crafting Word Art with Clouds: Ever wanted to paint with words? Enter the enchanting world of word clouds, where themes and emotions take shape through the art of language.
+
+Sharing the Enchantment: The magic doesn't stop here! We've harnessed the power of data to create personalized Netflix recommendations, tailored just for you.
+
+A Spectacular Finale: As the curtains close on our data-driven adventure, remember that the stories continue to unfold. Armed with insights, you're now poised to experience Netflix in a whole new dimension. Lights, camera, data!
 
 
 
