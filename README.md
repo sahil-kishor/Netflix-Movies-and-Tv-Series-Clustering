@@ -4,7 +4,7 @@ Netflix, the world’s largest on-demand internet streaming media and online DVD
 
 ![image](https://github.com/sahil-kishor/Netflix-Movies-and-Tv-Series-Clustering/assets/159517524/6801e807-d430-4c45-a39b-7acc54955c68)
 
-## Project Summary
+## Project Summary: 
 
 This dataset consists of tv shows and movies available on Netflix as of 2019. The dataset is collected from Flixable which is a third-party Netflix search engine. In 2018, they released an interesting report which shows that the number of TV shows on Netflix has nearly tripled since 2010. The streaming service’s number of movies has decreased by more than 2,000 titles since 2010, while its number of TV shows has nearly tripled. It will be interesting to explore what all other insights can be obtained from the same dataset. The project,
 
@@ -12,7 +12,7 @@ This dataset consists of tv shows and movies available on Netflix as of 2019. Th
 2. Understanding what type content is available in different countries
 3. Clustering similar content by matching text-based features
 
-Dataset Description
+Dataset Description:
 
 ![image](https://github.com/sahil-kishor/Netflix-Movies-and-Tv-Series-Clustering/assets/159517524/995c4ae1-9953-4745-9a4a-0f4d4bd32711)
 
