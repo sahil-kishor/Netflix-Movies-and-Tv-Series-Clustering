@@ -72,7 +72,11 @@ Insights derived from the Exploratory Data Analysis include:
 ## Author
 
 Sahil Kishor
+
+Project : https://github.com/sahil-kishor/Netflix-Movies-and-Tv-Series-Clustering/blob/main/Machine_Learning_Capstone_Project.ipynb
+
 Email : kishorsahil555@gmail.com
+
 LinkedIn : www.linkedin.com/in/sahil-kishor
 
 
