@@ -30,8 +30,9 @@ This dataset consists of tv shows and movies available on Netflix as of 2019. Th
 6. ML Model Implementation :- Found the optimal number of clusters using the Elbow method and Silhouette Score for K-Means Clustering, created 6 clusters according to Silhouette Score. Crafted a dendogram for Hierarchical Clustering and formed 11 clusters and created Word cloud for every cluster formed by K-Means and Hierarchical Clustering
 7. Recommender System : Built a Recommender System to recommend relevant items for users, based on their preference
 
-# Conclusion
-Embarking on a Cinematic Adventure with Netflix Data! Launching into Data Realms: Prepare for an exhilarating voyage as we unveil the secrets of Netflix's vast content library through the lens of data science.
+## Conclusion
+### 1. Embarking on a Cinematic Adventure with Netflix Data! Launching into Data Realms: 
+Prepare for an exhilarating voyage as we unveil the secrets of Netflix's vast content library through the lens of data science.
 
 Data Transformation Magic: Just like wizards, we worked our magic to transform jumbled descriptions into neat and organized data. Imagine tidying up your room, but with words instead of toys!
 
