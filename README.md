@@ -20,4 +20,16 @@ This dataset consists of tv shows and movies available on Netflix as of 2019. Th
 
 ![image](https://github.com/sahil-kishor/Netflix-Movies-and-Tv-Series-Clustering/assets/159517524/b0b9b271-59f6-4bda-9829-30f95f1507b8)
 
+## Tasks Performed:
+
+1. Importing Data :- Imported daset into Google Colab notebook and converted in into a Pandas dataframe using Pandas Library
+2. Data Cleaning :- Handling null values, duplicate data and outliers present in our data. The column 'director' had 30% of null values followed by 'cast' with 9%, 'coutry' with 6.51%, 'date added' with 0.13% and 'rating' column with 0.09% of null values which were replaced or imputed or dropped as per the requirement. There were no noticeable Duplicate values.
+3. Data Wrangling :- Changed the data type of 'date_added' column to datetime format and extracted the year, month and minute values as seperate columns
+4. Exploratory Data Analysis :- Plotted the dependent variable and analyzed the distributions of both dependent and independent variables. Checked and visualized the correlation between the dependent and independent variables, and explored the relationships between each pair of variables through various visualization techniques.
+
+
+
+
+
+
 
