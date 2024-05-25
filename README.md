@@ -66,7 +66,11 @@ Insights derived from the Exploratory Data Analysis include:
 
 7. Sharing the Enchantment: The magic doesn't stop here! We've harnessed the power of data to create personalized Netflix recommendations, tailored just for you.
 
-8. A Spectacular Finale: As the curtains close on our data-driven adventure, remember that the stories continue to unfold. Armed with insights, you're now poised to experience Netflix in a whole new dimension. Lights, camera, data!
+9. A Spectacular Finale: As the curtains close on our data-driven adventure, remember that the stories continue to unfold. Armed with insights, you're now poised to experience Netflix in a whole new dimension. Lights, camera, data!
 
 
+## Author
 
+Sahil Kishor
+Email : kishorsahil555@gmail.com
+LinkedIn : www.linkedin.com/in/sahil-kishor
