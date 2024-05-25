@@ -12,11 +12,11 @@ This dataset consists of tv shows and movies available on Netflix as of 2019. Th
 2. Understanding what type content is available in different countries
 3. Clustering similar content by matching text-based features
 
-Dataset Description:
+## Dataset Description:
 
 ![image](https://github.com/sahil-kishor/Netflix-Movies-and-Tv-Series-Clustering/assets/159517524/995c4ae1-9953-4745-9a4a-0f4d4bd32711)
 
-Project Architecture:
+## Project Architecture:
 
 ![image](https://github.com/sahil-kishor/Netflix-Movies-and-Tv-Series-Clustering/assets/159517524/b0b9b271-59f6-4bda-9829-30f95f1507b8)
 
